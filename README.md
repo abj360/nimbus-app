@@ -52,7 +52,7 @@ cd nimbus-app
 
 ---
 
-- Dataset: [Colorectal Cancer Dataset](https://docs.google.com/document/d/162WhUE9KqCgq_I7-VvENZD2n1IVsbeXVRSwfJEkxAqQ/edit?usp=sharing)  
+- Dataset: [Colorectal Cancer Dataset]((https://www.tensorflow.org/datasets/catalog/colorectal_histology))  
 - Training parameters: Fine-tuned TensorFlow model for colorectal cancer detection  
 
 ---
