@@ -23,10 +23,10 @@ Nimbus is an AI system that utilizes image analysis to detect subtle patterns in
 ---
 ## Screenshots
 ### Upload Image Screen
-![Upload Screen](assets/screenshots/upload_screen.png)
+![Upload Screen](assets/upload_screen.png)
 
 ### Diagnosis Output
-![Diagnosis Output](assets/screenshots/diagnosis_output.png)
+![Diagnosis Output](assets/diagnosis_output.png)
 
 
 ## Tech Stack
