@@ -25,7 +25,7 @@ Nimbus is an AI system that utilizes image analysis to detect subtle patterns in
 - **Frontend:** Streamlit  
 - **Backend:** N/A (Only Google Colab for model execution)  
 - **AI Model:** TensorFlow (Fine-tuned model for histological analysis)  
-- **Dataset:** [Colorectal Cancer Dataset](https://docs.google.com/document/d/162WhUE9KqCgq_I7-VvENZD2n1IVsbeXVRSwfJEkxAqQ/edit?usp=sharing)  
+- **Dataset:** [Colorectal Cancer Dataset](https://www.tensorflow.org/datasets/catalog/colorectal_histology)
 
 ---
 
@@ -52,7 +52,7 @@ cd nimbus-app
 
 ---
 
-- Dataset: [Colorectal Cancer Dataset]((https://www.tensorflow.org/datasets/catalog/colorectal_histology))  
+- Dataset: [Colorectal Cancer Dataset](https://www.tensorflow.org/datasets/catalog/colorectal_histology) 
 - Training parameters: Fine-tuned TensorFlow model for colorectal cancer detection  
 
 ---
