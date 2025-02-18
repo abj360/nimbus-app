@@ -18,8 +18,19 @@ Nimbus is an AI system that utilizes image analysis to detect subtle patterns in
 ## How It Works
 1. **Upload Image** – Users upload a histological image of a tissue sample.  
 2. **AI Analysis** – The deep learning model processes the image and detects cancerous patterns.  
-3. **Diagnosis Output** – The app provides a detailed report, including the probability of colorectal cancer.  
+3. **Diagnosis Output** – The app provides a detailed report, including the probability of colorectal cancer.
+   
 ---
+## Screenshots
+### Upload Image Screen
+![Upload Screen](assets/screenshots/upload_screen.png)
+
+### AI Analysis
+![AI Analysis](assets/screenshots/ai_analysis.png)
+
+### Diagnosis Output
+![Diagnosis Output](assets/screenshots/diagnosis_output.png)
+
 
 ## Tech Stack
 - **Frontend:** Streamlit  
